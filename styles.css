@@ -1,0 +1,40 @@
+/*comentário*/
+*{ /*Edita todo o site*/
+      /*topo fundo esquerda direita*/
+    margin: 0  20px 10px 30px;
+}
+
+body{
+    background-color: darksalmon;
+}
+
+p {
+    color:darkslategray;
+    border: 1px solid black;
+}
+
+#principal {
+    background-color: red;
+    color: aliceblue;
+    font-weight: bold;
+    padding: 16px;
+    text-align: center;
+    height: 100px;
+    width: 1000px;
+}
+
+.espacamento{
+    margin: 10px;
+}
+
+.chave {
+    background-color: brown;
+}
+
+#divMaior {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
